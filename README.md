@@ -1,4 +1,4 @@
 # qualidade
 Estudos Sobre Qualidade de Software
 
-olá
+olá, tudo bom? Mais
